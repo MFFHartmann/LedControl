@@ -41,7 +41,7 @@
 #include <WProgram.h>
 #endif
 
-*
+/*
  * Segments to be switched on for characters and digits on
  * 7-Segment Displays
  * Format: Bxxxxxxxx --> B(dp)(a)(b)(c)(d)(e)(f)(g)
